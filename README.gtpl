@@ -9,7 +9,7 @@
 </a></p>
 <p align="center"><a href="https://wakatime.com/@047147fa-6740-4f31-9cfa-b1a85faff513">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@047147fa-6740-4f31-9cfa-b1a85faff513/16ab06d1-67e9-48e2-b180-07770aaf2639.svg" />
-</a></a></p>
+</a></p>
 ### 👷 Check out what I'm currently working on
 {{ range recentContributions 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
