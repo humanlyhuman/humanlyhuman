@@ -33,4 +33,6 @@
 {{- end }}
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
-- 
+  - Mastodon  : <https://universeodon.com/@humanlyhuman420>
+  - Twitter   : <https://twitter.com/humanlyhuman420>
+  - Website   : <https://humanlyhuman.com>
