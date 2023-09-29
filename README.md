@@ -23,11 +23,11 @@
 
 ### ⭐ Recent Stars
 
+- [LunarVim/synthwave84.nvim](https://github.com/LunarVim/synthwave84.nvim) - 
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda &amp; more for Steam and Wine-GE &amp; more for Lutris with this graphical user interface.
-- [AUNaseef/protonup](https://github.com/AUNaseef/protonup) - Install and Update Proton-GE
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
   - Mastodon  : <https://universeodon.com/@humanlyhuman420>
