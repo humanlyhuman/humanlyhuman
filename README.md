@@ -23,11 +23,11 @@
 
 ### ⭐ Recent Stars
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui) - A web frontend for the headscale Tailscale-compatible coordination server
+- [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) - Neovim plugin to flash cursor when jumps or moves between windows.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [LunarVim/synthwave84.nvim](https://github.com/LunarVim/synthwave84.nvim) - 
-- [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
   - Mastodon  : <https://universeodon.com/@humanlyhuman420>
