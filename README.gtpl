@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=humanlyhuman&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=humanlyhuman&show_icons=true&theme=react" />
 </a></p>
 <p align="center"><a href="https://wakatime.com/@humanlyhuman">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/e1df01e8-dae0-444a-a3c3-70fd1a1ab7d3.svg" />
