@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=humanlyhuman&show_icons=true&theme=react" />
 </a></p>
 <p align="center"><a href="https://wakatime.com/@humanlyhuman">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/854c81e3-5f33-42ed-b6cf-9ebccedbe10f.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/9c049d62-984c-408f-b87b-68c5cc7bf4bf.svg" />
 </a>
 <a href="https://wakatime.com/@humanlyhuman">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/513b3a3a-52c9-4706-bece-2472e26f6945.svg" />
