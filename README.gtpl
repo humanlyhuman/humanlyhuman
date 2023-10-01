@@ -12,7 +12,7 @@
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/6d9d7eea-3f23-4db3-9eaf-742cbff8d9b5.svg" />
 </a>
 <a href="https://wakatime.com/@humanlyhuman">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/558c9c83-c82e-4142-bd49-b2eaa73616d1.svg />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/558c9c83-c82e-4142-bd49-b2eaa73616d1.svg" />
 </a></p>
 
 ### 👷 Check out what I'm currently working on
