@@ -26,11 +26,11 @@
 - [Fix Typo In Readme](https://github.com/xerolinux/xero_iso/pull/13) on [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso)
 ### ⭐ Recent Stars
 
+- [ChrisTitusTech/nord-background](https://github.com/ChrisTitusTech/nord-background) - 
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
 - [Ahwxorg/LibreY](https://github.com/Ahwxorg/LibreY) - Framework and javascript free privacy respecting meta search engine
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-- [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
   - Mastodon  : <https://universeodon.com/@humanlyhuman420>
