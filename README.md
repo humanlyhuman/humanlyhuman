@@ -29,7 +29,7 @@
 - [3ximus/aerial-sddm-theme](https://github.com/3ximus/aerial-sddm-theme) - SDDM theme with Apple TV Aerial videos
 - [Gyztor/kernel-rdtsc-patch](https://github.com/Gyztor/kernel-rdtsc-patch) - 
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
-- [ChrisTitusTech/nord-background](https://github.com/ChrisTitusTech/nord-background) - 
+- [ChrisTitusTech/nord-background](https://github.com/ChrisTitusTech/nord-background) - Collection of Nord Backgrounds
 - [Alex313031/Thorium-Win](https://github.com/Alex313031/Thorium-Win) - Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
