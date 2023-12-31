@@ -26,11 +26,11 @@
 - [Fix Typo In Readme](https://github.com/xerolinux/xero_iso/pull/13) on [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso)
 ### ⭐ Recent Stars
 
-- [harryeffinpotter/PC-Gaming-Redists](https://github.com/harryeffinpotter/PC-Gaming-Redists) - Automated wget script to download and install all .Net/VC&#43;&#43; redistributables required for PC Gaming &#43; a few other tools (like 7zip, Powershell, etc.) Scorched earth redists policy.
-- [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
-- [3ximus/aerial-sddm-theme](https://github.com/3ximus/aerial-sddm-theme) - SDDM theme with Apple TV Aerial videos
-- [Gyztor/kernel-rdtsc-patch](https://github.com/Gyztor/kernel-rdtsc-patch) - 
-- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+- [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
+- [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
+- [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all) - Nvidia driver latest to 396 series AIO installer
+- [FossifyOrg/Dialer](https://github.com/FossifyOrg/Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
+- [FossifyOrg/Music-Player](https://github.com/FossifyOrg/Music-Player) - A clean music player with a customizable widget, stylish interface and no ads.
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
   - Mastodon  : <https://universeodon.com/@humanlyhuman420>
