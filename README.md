@@ -26,11 +26,11 @@
 - [Fix Typo In Readme](https://github.com/xerolinux/xero_iso/pull/13) on [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso)
 ### ⭐ Recent Stars
 
+- [SeongGino/ir-light-gun-plus](https://github.com/SeongGino/ir-light-gun-plus) - Arduino powered IR light gun - with force-feedback additions, quality of life changes, and worse code quality!
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [Frogging-Family/wine-tkg-git](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds
 - [Frogging-Family/linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [Frogging-Family/nvidia-all](https://github.com/Frogging-Family/nvidia-all) - Nvidia driver latest to 396 series AIO installer
-- [FossifyOrg/Dialer](https://github.com/FossifyOrg/Dialer) - A handy phone call manager with phonebook, number blocking and multi-SIM support
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
   - Mastodon  : <https://universeodon.com/@humanlyhuman420>
