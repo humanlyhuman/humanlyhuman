@@ -17,13 +17,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso) - The Official XeroLinux ISO Build Environment
 ### 🌱 My latest projects
 
 ### 🔨 My recent Pull Requests
 
 - [Fix Not Building](https://github.com/PCBox/PCBox/pull/80) on [PCBox/PCBox](https://github.com/PCBox/PCBox)
-- [Fix Typo In Readme](https://github.com/xerolinux/xero_iso/pull/13) on [xerolinux/xero_iso](https://github.com/xerolinux/xero_iso)
 ### ⭐ Recent Stars
 
 - [FossifyOrg/AndroidPdfViewer](https://github.com/FossifyOrg/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
