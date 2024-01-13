@@ -9,26 +9,15 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-    permissions:
-      # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
-      contents: write
+
     steps:
-      - uses: actions/checkout@v3
-        with:
-         ref: ${{ github.head_ref }}
-        env:
-          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
-          
       - name: Checkout repository
         uses: actions/checkout@v2
-        env:
-          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
 
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'
@@ -36,7 +25,6 @@ jobs:
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           commit_message: 'markscribe: update README.md'
