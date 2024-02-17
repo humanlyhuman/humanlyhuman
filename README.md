@@ -32,6 +32,5 @@
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
   - Mastodon  : <https://universeodon.com/@humanlyhuman420>
-  - Twitter   : <https://twitter.com/humanlyhuman420>
-  - Lemmy     : <https://sh.itjust.works/u/humanlyhuman429>
+  - Lemmy     : <https://lemmy.today/u/humanlyhuman>
   - Website   : <https://humanlyhuman.com>
