@@ -24,11 +24,11 @@
 - [Fix Not Building](https://github.com/PCBox/PCBox/pull/80) on [PCBox/PCBox](https://github.com/PCBox/PCBox)
 ### ⭐ Recent Stars
 
+- [juicepl/RapyClicker](https://github.com/juicepl/RapyClicker) - Program, which is auto-farming ores on BoxPvP (RAPY.PL)
 - [moehreag/wayland-fixes](https://github.com/moehreag/wayland-fixes) - Mod for no-compromises wayland compatibility on modern versions
 - [ForkGG/Fork-legacy](https://github.com/ForkGG/Fork-legacy) - Fork: Minecraft Server Manager GUI for Windows
 - [ForkGG/Fork](https://github.com/ForkGG/Fork) - Fork: Minecraft Server Manager GUI for Windows 
 - [FossifyOrg/AndroidPdfViewer](https://github.com/FossifyOrg/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
-- [SeongGino/ir-light-gun-plus](https://github.com/SeongGino/ir-light-gun-plus) - Arduino powered IR light gun - with force-feedback additions, MAMEHOOKER support, quality of life changes, and (possibly) dubious code quality!
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
   - Mastodon  : <https://universeodon.com/@humanlyhuman420>
