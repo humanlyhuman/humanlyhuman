@@ -1,5 +1,6 @@
 # 👋 Hi there! I'm **humanlyhuman**
 
+---
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=humanlyhuman&show_icons=true&theme=react" alt="GitHub Stats" />
@@ -13,6 +14,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=U084KMLBBM5&api_domain=waka.hackclub.com&bg_color=1A202C&title_color=4169e1&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakapi Week Stats" />
 </p>
+
 ---
 
 ## 🚀 What I'm Working On
