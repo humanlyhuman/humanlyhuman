@@ -11,20 +11,8 @@
 ## 📊 My Coding Stats  
 
 <p align="center">
-  <a href="https://wakatime.com/@humanlyhuman">
-    <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/9c049d62-984c-408f-b87b-68c5cc7bf4bf.svg" alt="WakaTime Project Stats" />
-  </a>
-  <a href="https://wakatime.com/@humanlyhuman">
-    <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/513b3a3a-52c9-4706-bece-2472e26f6945.svg" alt="WakaTime Language Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@humanlyhuman">
-    <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/6d9d7eea-3f23-4db3-9eaf-742cbff8d9b5.svg" alt="WakaTime Editor Stats" />
-  </a>
-  <a href="https://wakatime.com/@humanlyhuman">
-    <img align="center" width="400" height="300" src="https://wakatime.com/share/@humanlyhuman/558c9c83-c82e-4142-bd49-b2eaa73616d1.svg" alt="WakaTime OS Stats" />
+  <a href="https://wakapi.dev/@humanlyhuman">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=humanlyhuman&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="Wakapi Week Stats" />
   </a>
 </p>
 
