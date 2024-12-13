@@ -17,18 +17,23 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [humanlyhuman/humanlyhuman.github.io](https://github.com/humanlyhuman/humanlyhuman.github.io) - 
+- [realaroid/.github](https://github.com/realaroid/.github) - 
+- [humanlyhuman/humanpkgs](https://github.com/humanlyhuman/humanpkgs) - my (shitty) nix packages
 ### 🌱 My latest projects
 
+- [humanlyhuman/humanlyhuman.github.io](https://github.com/humanlyhuman/humanlyhuman.github.io) - 
+- [humanlyhuman/humanpkgs](https://github.com/humanlyhuman/humanpkgs) - my (shitty) nix packages
 ### 🔨 My recent Pull Requests
 
 - [Fix Not Building](https://github.com/PCBox/PCBox/pull/80) on [PCBox/PCBox](https://github.com/PCBox/PCBox)
 ### ⭐ Recent Stars
 
-- [rfresh2/ZenithProxy](https://github.com/rfresh2/ZenithProxy) - 2b2t minecraft proxy
-- [moehreag/wayland-fixes](https://github.com/moehreag/wayland-fixes) - Mod for no-compromises wayland compatibility on modern versions
-- [ForkGG/Fork-legacy](https://github.com/ForkGG/Fork-legacy) - Fork: Minecraft Server Manager GUI for Windows
-- [ForkGG/Fork](https://github.com/ForkGG/Fork) - Fork: Minecraft Server Manager GUI for Windows 
-- [FossifyOrg/AndroidPdfViewer](https://github.com/FossifyOrg/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
+- [CleanroomMC/Cleanroom](https://github.com/CleanroomMC/Cleanroom) - Cleanroom Minecraft.
+- [IogaMaster/flux](https://github.com/IogaMaster/flux) - Create and deploy game servers with nix
+- [zeropsio/actions](https://github.com/zeropsio/actions) - ⚡️Github Action for Seamless Deployments to Zerops.
 ### 📰 Recent Blog Posts
 ### 📫 How to reach me:
   - Mastodon  : <https://universeodon.com/@humanlyhuman420>
