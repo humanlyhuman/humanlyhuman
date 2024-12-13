@@ -1,6 +1,9 @@
+---
+
 # 👋 Hi there! I'm **humanlyhuman**
 
 ---
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=humanlyhuman&show_icons=true&theme=react" alt="GitHub Stats" />
@@ -17,7 +20,7 @@
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Currently Working On
 
 - [humanlyhuman/abcd](https://github.com/humanlyhuman/abcd) - 
 - [humanlyhuman/humanlyhuman.github.io](https://github.com/humanlyhuman/humanlyhuman.github.io) - 
@@ -48,3 +51,5 @@
 - 🐘 **Mastodon:** [@humanlyhuman420](https://universeodon.com/@humanlyhuman420)  
 - 🌿 **Lemmy:** [@humanlyhuman](https://lemmy.today/u/humanlyhuman)  
 - 🌐 **Website:** [humanlyhuman.com](https://humanlyhuman.com)
+
+---
