@@ -22,8 +22,8 @@
 
 ## 🚀 Currently Working On
 
-- [humanlyhuman/abcd](https://github.com/humanlyhuman/abcd) - 
 - [humanlyhuman/humanlyhuman.github.io](https://github.com/humanlyhuman/humanlyhuman.github.io) - 
+- [humanlyhuman/abcd](https://github.com/humanlyhuman/abcd) - 
 - [realaroid/.github](https://github.com/realaroid/.github) - 
 - [humanlyhuman/humanpkgs](https://github.com/humanlyhuman/humanpkgs) - my (shitty) nix packages
 
