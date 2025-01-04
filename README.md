@@ -39,11 +39,11 @@
 
 ## ⭐ Recent Stars
 
+- [retuci0/retux](https://github.com/retuci0/retux) - goofy ahh &#34;kernel&#34;
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 - [CleanroomMC/Cleanroom](https://github.com/CleanroomMC/Cleanroom) - Cleanroom Minecraft.
 - [IogaMaster/flux](https://github.com/IogaMaster/flux) - Create and deploy game servers with nix
-- [zeropsio/actions](https://github.com/zeropsio/actions) - ⚡️Github Action for Seamless Deployments to Zerops.
 
 ---
 
